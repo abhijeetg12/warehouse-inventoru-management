@@ -1,0 +1,71 @@
+[
+    {
+      "_id": { "$oid": "65cbc1a123456789abcd1001" },
+      "columns": [
+        {"title": "Day", "dataIndex": "day", "dataType": "date"},
+        {"title": "Electronics", "dataIndex": "0", "dataType": "number"},
+        {"title": "Furniture", "dataIndex": "1", "dataType": "number"}
+      ],
+      "name": "Warehouse 1",
+      "creator": { "$oid": "65cb123456789abcd000a001" },
+      "sector": { "$oid": "65cba1a123456789abcd0001" }
+    },
+    {
+      "_id": { "$oid": "65cbc1a123456789abcd1002" },
+      "columns": [
+        {"title": "Day", "dataIndex": "day", "dataType": "date"},
+        {"title": "Raw Materials", "dataIndex": "0", "dataType": "number"},
+        {"title": "Packaging Supplies", "dataIndex": "1", "dataType": "number"},
+        {"title": "Chemicals", "dataIndex": "2", "dataType": "number"},
+        {"title": "Safety Gear", "dataIndex": "3", "dataType": "number"}
+      ],
+      "name": "Warehouse 1",
+      "creator": { "$oid": "65cb123456789abcd000a001" },
+      "sector": { "$oid": "65cba1a123456789abcd0003" }
+    },
+    {
+      "_id": { "$oid": "65cbc1a123456789abcd1003" },
+      "columns": [
+        {"title": "Day", "dataIndex": "day", "dataType": "date"},
+        {"title": "Clothing", "dataIndex": "0", "dataType": "number"},
+        {"title": "Shoes", "dataIndex": "1", "dataType": "number"},
+        {"title": "Accessories", "dataIndex": "2", "dataType": "number"},
+        {"title": "Bags", "dataIndex": "3", "dataType": "number"},
+        {"title": "Jewelry", "dataIndex": "4", "dataType": "number"},
+        {"title": "Watches", "dataIndex": "5", "dataType": "number"},
+        {"title": "Sunglasses", "dataIndex": "6", "dataType": "number"}
+      ],
+      "name": "Warehouse 1",
+      "creator": { "$oid": "65cb123456789abcd000a002" },
+      "sector": { "$oid": "65cba1a123456789abcd0002" }
+    },
+    {
+      "_id": { "$oid": "65cbc1a123456789abcd1004" },
+      "columns": [
+        {"title": "Day", "dataIndex": "day", "dataType": "date"},
+        {"title": "Books", "dataIndex": "0", "dataType": "number"},
+        {"title": "Stationery", "dataIndex": "1", "dataType": "number"},
+        {"title": "Notebooks", "dataIndex": "2", "dataType": "number"},
+        {"title": "Pens", "dataIndex": "3", "dataType": "number"}
+      ],
+      "name": "Warehouse 2",
+      "creator": { "$oid": "65cb123456789abcd000a002" },
+      "sector": { "$oid": "65cba1a123456789abcd0004" }
+    },
+    {
+      "_id": { "$oid": "65cbc1a123456789abcd1005" },
+      "columns": [
+        {"title": "Day", "dataIndex": "day", "dataType": "date"},
+        {"title": "Perishable Goods", "dataIndex": "0", "dataType": "number"},
+        {"title": "Frozen Foods", "dataIndex": "1", "dataType": "number"},
+        {"title": "Beverages", "dataIndex": "2", "dataType": "number"},
+        {"title": "Dairy Products", "dataIndex": "3", "dataType": "number"},
+        {"title": "Snacks", "dataIndex": "4", "dataType": "number"},
+        {"title": "Canned Goods", "dataIndex": "5", "dataType": "number"},
+        {"title": "Spices", "dataIndex": "6", "dataType": "number"}
+      ],
+      "name": "Warehouse 2",
+      "creator": { "$oid": "65cb123456789abcd000a001" },
+      "sector": { "$oid": "65cba1a123456789abcd0001" }
+    }
+  ]

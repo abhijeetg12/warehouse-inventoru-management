@@ -1,0 +1,37 @@
+[
+    {
+      "_id": { "$oid": "65cba1a123456789abcd0001" },
+      "name": "Sector 1",
+      "creator": { "$oid": "65cb123456789abcd000a001" },
+      "location": "New York",
+      "deleted": false
+    },
+    {
+      "_id": { "$oid": "65cba1a123456789abcd0002" },
+      "name": "Sector 2",
+      "creator": { "$oid": "65cb123456789abcd000a002" },
+      "location": "Los Angeles",
+      "deleted": false
+    },
+    {
+      "_id": { "$oid": "65cba1a123456789abcd0003" },
+      "name": "Sector 3",
+      "creator": { "$oid": "65cb123456789abcd000a001" },
+      "location": "Chicago",
+      "deleted": false
+    },
+    {
+      "_id": { "$oid": "65cba1a123456789abcd0004" },
+      "name": "Sector 4",
+      "creator": { "$oid": "65cb123456789abcd000a002" },
+      "location": "Houston",
+      "deleted": false
+    },
+    {
+      "_id": { "$oid": "65cba1a123456789abcd0005" },
+      "name": "Sector 5",
+      "creator": { "$oid": "65cb123456789abcd000a001" },
+      "location": "San Francisco",
+      "deleted": false
+    }
+  ]
